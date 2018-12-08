@@ -1,3 +1,168 @@
-#EXTM3U
 #EXTINF:-1,RU: TV 1000 
 http://ipsatpro.com:8080/live/mpolo/mpolo/1595.m3u8 
+#EXTINF:-1,RU: TV1000 Action 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1592.m3u8 
+#EXTINF:-1,RU: TV1000 World Kino 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1621.m3u8 
+#EXTINF:-1,RU: TV1000 Comedy HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1616.m3u8 
+#EXTINF:-1,RU: TV1000 русское кино 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1646.m3u8 
+#EXTINF:-1,RU: VIP Megahit HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1625.m3u8 
+#EXTINF:-1,RU: VIP Premium HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1591.m3u8 
+#EXTINF:-1,RU: Viasat History HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1622.m3u8 
+#EXTINF:-1,RU: Viasat exploer 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1589.m3u8 
+#EXTINF:-1,RU: Viasat Explorer 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1585.m3u8 
+#EXTINF:-1,RU: Viasat Nature 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1588.m3u8 
+#EXTINF:-1,RU: Viasat Golf 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1597.m3u8 
+#EXTINF:-1,RU: Viasat Sport 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1640.m3u8 
+#EXTINF:-1,RU: иллюзион 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1643.m3u8 
+#EXTINF:-1,RU: Amedia Hits 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1612.m3u8 
+#EXTINF:-1,RU: Ginger 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1638.m3u8 
+#EXTINF:-1,RU: Amedia Premium 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1647.m3u8 
+#EXTINF:-1,RU: Kino Semya 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1608.m3u8 
+#EXTINF:-1,RU: Kino Premiera HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1596.m3u8 
+#EXTINF:-1,RU: Kinopokaz 1 HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1633.m3u8 
+#EXTINF:-1,RU: Kinopokaz 2 HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1634.m3u8 
+#EXTINF:-1,RU: Rodnoe Kino 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1659.m3u8 
+#EXTINF:-1,RU: Kino miks 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1660.m3u8 
+#EXTINF:-1,RU: Киноклуб 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1649.m3u8 
+#EXTINF:-1,RU: Paramount Channel 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1654.m3u8 
+#EXTINF:-1,RU: Paramount Comedy 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1627.m3u8 
+#EXTINF:-1,RU: Dom Kino 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1580.m3u8 
+#EXTINF:-1,RU: Kino TV 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1613.m3u8 
+#EXTINF:-1,RU: Kino Hit 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1645.m3u8 
+#EXTINF:-1,RU: Lyubimoe kino 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1656.m3u8 
+#EXTINF:-1,RU: Kino Z HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1657.m3u8 
+#EXTINF:-1,RU: Bollywood 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1658.m3u8 
+#EXTINF:-1,RU: Fine Living 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1641.m3u8 
+#EXTINF:-1,RU: KHL TV 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1624.m3u8 
+#EXTINF:-1,RU: Extreme Sports 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1611.m3u8 
+#EXTINF:-1,RU: Матч! футбол 1 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1586.m3u8 
+#EXTINF:-1,RU: Матч! футбол 2 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1584.m3u8 
+#EXTINF:-1,RU: Матч! футбол 3 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1583.m3u8 
+#EXTINF:-1,RU: Матч Планета 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1617.m3u8 
+#EXTINF:-1,RU: Матч Боец 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1582.m3u8 
+#EXTINF:-1,RU: Матч Игра HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1610.m3u8 
+#EXTINF:-1,RU: TNT HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1602.m3u8 
+#EXTINF:-1,RU: Матч! Арена HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1601.m3u8 
+#EXTINF:-1,RU: Матч HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1620.m3u8 
+#EXTINF:-1,RU: Futbol 1 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1626.m3u8 
+#EXTINF:-1,RU: Futbol 2 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1614.m3u8 
+#EXTINF:-1,RU: Eurosport 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1642.m3u8 
+#EXTINF:-1,RU: Евроспорт 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1587.m3u8 
+#EXTINF:-1,RU: Евроспорт 2 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1590.m3u8 
+#EXTINF:-1,RU: Disney HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1653.m3u8 
+#EXTINF:-1,RU: RUTV 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1635.m3u8 
+#EXTINF:-1,RU: Sony Channel 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1631.m3u8 
+#EXTINF:-1,RU: Sony Sci 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1604.m3u8 
+#EXTINF:-1,RU: Sony Turbo 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1605.m3u8 
+#EXTINF:-1,RU: MGM HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1632.m3u8 
+#EXTINF:-1,RU: CBS Reality 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1599.m3u8 
+#EXTINF:-1,RU: Fox HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1571.m3u8 
+#EXTINF:-1,RU: РњРёСЂ +3 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1594.m3u8 
+#EXTINF:-1,RU: Outdoor 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1593.m3u8 
+#EXTINF:-1,RU: Travel Channel HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1628.m3u8 
+#EXTINF:-1,RU: National Geographic 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1648.m3u8 
+#EXTINF:-1,RU: Nat Geo Wild HD 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1619.m3u8 
+#EXTINF:-1,RU: Discovery Channel 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1581.m3u8 
+#EXTINF:-1,RU: Дом/кино 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1636.m3u8 
+#EXTINF:-1,RU: Animal Planet 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1655.m3u8 
+#EXTINF:-1,RU: History 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1644.m3u8 
+#EXTINF:-1,RU: Cartoonet Work 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1598.m3u8 
+#EXTINF:-1,RU: Много ТВ 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1650.m3u8 
+#EXTINF:-1,RU: Fox Life 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1639.m3u8 
+#EXTINF:-1,RU: TV-XXI 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1630.m3u8 
+#EXTINF:-1,RU: Карусель 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1637.m3u8 
+#EXTINF:-1,RU: КХЛ ТВ 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1629.m3u8 
+#EXTINF:-1,RU: Пятница 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1606.m3u8 
+#EXTINF:-1,RU: Москва/24 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1652.m3u8 
+#EXTINF:-1,RU: Кухня ТВ 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1618.m3u8 
+#EXTINF:-1,RU: Nash Kinoroman 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1623.m3u8 
+#EXTINF:-1,RU: RCG TV Coahuila 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1609.m3u8 
+#EXTINF:-1,RU: RTA 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1607.m3u8 
+#EXTINF:-1,RU: LALE 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1603.m3u8 
+#EXTINF:-1,RU: 2X2 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1600.m3u8 
+#EXTINF:-1,RU: Multmuzuka 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1615.m3u8 
+#EXTINF:-1,RU: БСТ 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1579.m3u8 
+#EXTINF:-1,RU: Первый канал 
+http://ipsatpro.com:8080/live/mpolo/mpolo/1651.m3u8 
+#EXTINF:-1,CZ: HBO 1 
+http://ipsatpro.com:8080/live/mpolo/mpolo/5254.m3u
